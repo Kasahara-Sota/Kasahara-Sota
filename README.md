@@ -1,5 +1,5 @@
 笠原颯太です(?)
-
+paizaが楽しい
 <!--
 **Kasahara-Sota/Kasahara-Sota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
