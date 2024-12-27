@@ -1,5 +1,6 @@
 笠原颯太です(?)
-Linqそれなりに好き。Unityもそれなりに好き。
+個人制作が一番楽。ほかの人を待たなくていいし、マージする時絶対にコンフリクトしないもん。
+チーム制作は長期じゃなければ楽しい。小さいプロジェクトは管理が楽だからね。
 <!--
 **Kasahara-Sota/Kasahara-Sota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
