@@ -1,7 +1,7 @@
 笠原颯太です(?)
-目標は誰かが喜ぶ、もしくは誰かが楽しむアプリケーション開発をすること。
+目標は面白いゲームを開発すること。
 趣味はゲームとゲーム制作と競技プログラミング。
-パーリンノイズ教えてくれる人が欲しい。
+
 <!--
 **Kasahara-Sota/Kasahara-Sota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
